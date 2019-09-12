@@ -1,0 +1,14 @@
+<object>
+	<torus>
+		<radius>7</radius>
+		<position>0, 0, 25</position>
+		<rotation>0, 0, 0</rotation>
+		<direction>0, 1, 0</direction>
+		<colorRGB>255,255,255</colorRGB>
+		<colorHexadecimal>FFFFFF</colorHexadecimal>
+		<shininess>1000</shininess>
+		<transparency>0</transparency>
+		<refraction>0</refraction>
+		<mirror>0</mirror>
+	</torus>
+</object>

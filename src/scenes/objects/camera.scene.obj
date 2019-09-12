@@ -1,0 +1,6 @@
+<object>
+	<camera>
+		<position>0, 0, 0</position>
+		<direction>0, 0, 1</direction>
+	</camera>
+</object>

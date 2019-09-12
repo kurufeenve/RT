@@ -1,0 +1,7 @@
+<object>
+	<light>
+		<type>point</type>
+		<position>0, 0, 0</position>
+		<intensity>70</intensity>
+	</light>
+</object>

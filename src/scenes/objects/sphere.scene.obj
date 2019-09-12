@@ -1,0 +1,14 @@
+<object>
+	<sphere>
+		<radius>1</radius>
+		<height>0</height>
+		<position>0, 0, 10</position>
+		<colorRGB>255,255,255</colorRGB>
+		<colorHexadecimal>FFFFFF</colorHexadecimal>
+		<shininess>1000</shininess>
+		<transparency>0</transparency>
+		<refraction>0</refraction>
+		<mirror>0</mirror>
+		<texture>None</texture>
+	</sphere>
+</object>

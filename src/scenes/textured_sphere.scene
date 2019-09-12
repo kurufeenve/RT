@@ -1,0 +1,68 @@
+<scene>
+
+	<camera>
+		position-x:0;
+		position-y:0;
+		position-z:-10;
+		direction-x:0;
+		direction-y:0;
+		direction-z:0;
+	</camera>
+	
+	<light>
+		type:ambient;
+		intensity:15;
+		position-x:0;
+		position-y:15;
+		position-z:0;
+	</light>
+
+	<light>
+		type:point;
+		intensity:70;
+		position-x:0;
+		position-y:0;
+		position-z:0;
+	</light>
+
+	<sphere>
+		colorHexadecimal:00ff00;
+		radius:5;
+		height:0;
+		position-x:-10;
+		position-y:0;
+		position-z:10;
+		transparency:0;
+		refraction:0;
+		mirror:0;
+		texture:./textures/red_bricks.bmp;
+	</sphere>
+
+		<sphere>
+		colorHexadecimal:00ff00;
+		radius:5;
+		height:0;
+		position-x:0;
+		position-y:5;
+		position-z:10;
+		transparency:0;
+		refraction:0;
+		mirror:0;
+		texture:./textures/camo.bmp;
+	</sphere>
+
+	<sphere>
+		colorHexadecimal:00ff00;
+		radius:5;
+		height:0;
+		position-x:10;
+		position-y:0;
+		position-z:10;
+		transparency:0;
+		refraction:0;
+		mirror:0;
+		texture:./textures/stonewall.bmp;
+	</sphere>
+
+
+</scene>

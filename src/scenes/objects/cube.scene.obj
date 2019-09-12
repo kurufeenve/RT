@@ -1,0 +1,14 @@
+<object>
+	<cube>
+		<position>0, 0, 5</position>
+		<position2>3, 3, 7</position2>
+		<rotation>0, 0, 0</rotation>
+		<direction>0, 1, 0</direction>
+		<colorRGB>255, 255, 255</colorRGB>
+		<colorHexadecimal>FFFFFF</colorHexadecimal>
+		<shininess>1000</shininess>
+		<transparency>0</transparency>
+		<refraction>0</refraction>
+		<mirror>0</mirror>
+	</cube>
+</object>

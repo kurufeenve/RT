@@ -1,0 +1,15 @@
+<object>
+	<ellipsoid>
+		<position>0, 3, 0</position>
+        <position2>0, 3, 0</position2>
+		<rotation>0, 0, 0</rotation>
+		<radius>2</radius>
+		<direction>0, 1, 0</direction>
+		<colorRGB>255,255,255</colorRGB>
+		<colorHexadecimal>FFFFFF</colorHexadecimal>
+		<shininess>1000</shininess>
+		<transparency>0</transparency>
+		<refraction>0</refraction>
+		<mirror>0</mirror>
+	</ellipsoid>
+</object>

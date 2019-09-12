@@ -1,0 +1,6 @@
+<object>
+	<light>
+		<type>ambient</type>
+		<intensity>100</intensity>
+	</light>
+</object>
